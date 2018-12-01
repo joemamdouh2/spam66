@@ -57,14 +57,14 @@ client.on('ready', async() => {
 var server = "512693975363223573"; 
 var channel = "513991573772697602";
     setInterval(()=>{
-    client.guilds.get(server).channels.get(channel).send('sdsdoasmdoamsdoamsdom')
+    client.guilds.get(server).channels.get(channel).send('sdsdoasmdoamsdsmdoamsdsmdoamsdsmdoamsdsmdoamsdsmdoamsdsmdoamsdsmdoamsdsmdoamsdsmdoamsdsmdoamsamsdamsdamsdamsdamsdamsdamsdamsddsmdoamsdsmdooamsdom')
     },305);
 })
 client.on('ready', async() => {
 var server = "512693975363223573"; 
 var channel = "513991573772697602";
     setInterval(()=>{
-    client.guilds.get(server).channels.get(channel).send('sdsdoasmdoamsdoamsdom')
+    client.guilds.get(server).channels.get(channel).send('sdoamamsdamsdamsdamsdamsdamsdamsdamsdamsdamsdamsdamsdamsdamsdamsdamsdamsdamsdamsdamsdamsdamsdamsdamsdamsdamsdamsdamsdamsdamsdamsdamsdamsdamsdamsdamsdamsdamsdamsdamsdamsdamsdsdom')
     },305);
 })
 
